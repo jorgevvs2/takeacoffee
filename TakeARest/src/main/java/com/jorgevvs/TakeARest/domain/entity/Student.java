@@ -1,4 +1,4 @@
-package com.jorgevvs.TakeARest.entity;
+package com.jorgevvs.TakeARest.domain.entity;
 
 public class Student {
     private String firstName;
